@@ -3,27 +3,27 @@ import { Task, TaskStatus } from "./tasks.types";
 export const defaultTasks: Task[] = [
   {
     id: 1,
-    title: "Complete project proposal",
+    title: "Join GDG on campus RCCIIT community",
     status: TaskStatus.done,
   },
   {
     id: 2,
-    title: "Review design mockups",
+    title: "Join GDG on campus RCCIIT Whatsapp Group",
     status: TaskStatus.done,
   },
   {
     id: 3,
-    title: "Prepare presentation slides",
+    title: "Join GDG on campus RCCIIT's Events Regularly",
     status: TaskStatus.todo,
   },
   {
     id: 4,
-    title: "Send meeting notes email",
+    title: "Learn Different Technologies",
     status: TaskStatus.todo,
   },
   {
     id: 5,
-    title: "Review Uli's pull request",
+    title: "Code them to Grow",
     status: TaskStatus.todo,
   },
 ];
